@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|c:\\users\\laura.g.andrade\\desktop\\decolatech 2024\\identity\\identityconfigurationproject01\\identityconfigurationproject01\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|solutionrelative:identityconfigurationproject01\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|c:\\users\\laura.g.andrade\\desktop\\decolatech 2024\\identity\\identityconfigurationproject01\\identityconfigurationproject01\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|solutionrelative:identityconfigurationproject01\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|c:\\users\\laura.g.andrade\\desktop\\decolatech 2024\\identity\\identityconfigurationproject01\\identityconfigurationproject01\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|solutionrelative:identityconfigurationproject01\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|c:\\users\\laura.g.andrade\\desktop\\decolatech 2024\\identity\\identityconfigurationproject01\\identityconfigurationproject01\\migrations\\20240611130547_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|solutionrelative:identityconfigurationproject01\\migrations\\20240611130547_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|c:\\users\\laura.g.andrade\\desktop\\decolatech 2024\\identity\\identityconfigurationproject01\\identityconfigurationproject01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|solutionrelative:identityconfigurationproject01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|c:\\users\\laura.g.andrade\\desktop\\decolatech 2024\\identity\\identityconfigurationproject01\\identityconfigurationproject01\\migrations\\20240610002019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87319344-4AFD-4B2C-8763-F645BAF57B79}|IdentityConfigurationProject01\\IdentityConfigurationProject01.csproj|solutionrelative:identityconfigurationproject01\\migrations\\20240610002019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityConfigurationProject01\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "IdentityConfigurationProject01\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:01:55.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityConfigurationProject01\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "IdentityConfigurationProject01\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:01:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240611130547_addIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Migrations\\20240611130547_addIdentity.cs",
+              "RelativeDocumentMoniker": "IdentityConfigurationProject01\\Migrations\\20240611130547_addIdentity.cs",
+              "ToolTip": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Migrations\\20240611130547_addIdentity.cs",
+              "RelativeToolTip": "IdentityConfigurationProject01\\Migrations\\20240611130547_addIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:06:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "IdentityConfigurationProject01\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "IdentityConfigurationProject01\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:28:18.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityConfigurationProject01\\Program.cs",
+              "ToolTip": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Program.cs",
+              "RelativeToolTip": "IdentityConfigurationProject01\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:49:37.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240610002019_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Migrations\\20240610002019_Initial.cs",
+              "RelativeDocumentMoniker": "IdentityConfigurationProject01\\Migrations\\20240610002019_Initial.cs",
+              "ToolTip": "C:\\Users\\laura.g.andrade\\Desktop\\decolaTech 2024\\Identity\\IdentityConfigurationProject01\\IdentityConfigurationProject01\\Migrations\\20240610002019_Initial.cs",
+              "RelativeToolTip": "IdentityConfigurationProject01\\Migrations\\20240610002019_Initial.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:20:55.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

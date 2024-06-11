@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IdentityConfigurationProject01.props" />
+</Project>
